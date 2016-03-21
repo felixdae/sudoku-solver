@@ -101,3 +101,4 @@ cv2.destroyAllWindows()        # Closes displayed windows
 # plt.imshow(gray_image)
 # plt.show()
 
+
